@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    'ᴅᴇᴠᴏʟᴏᴩᴇʀ❣️', url="https://t.me/I_am_rafii"
                                 )
                         ]
                     ]
@@ -47,7 +47,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/I_am_rafii'),
+        InlineKeyboardButton('ᴅᴇᴠᴏʟᴏᴩᴇʀ❣️', url='https://t.me/I_am_rafii'),
         InlineKeyboardButton('ꜱᴄ❣️', url ='https://t.me/nothing173727373/2')
     ],[
         InlineKeyboardButton('ꜱᴜᴩᴩᴏʀᴛ❣️', url='https://t.me/I_am_rafii')
